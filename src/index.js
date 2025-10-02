@@ -17,7 +17,7 @@ import { store } from './store/store';
 import { StateProvider } from './components/StateProvider';
 import reducer, { initialState } from './components/reducer';
 
-import 'bootstrap/scss/bootstrapD.scss'
+import 'bootstrap/scss/bootstrap.scss'
 import 'animate.css/animate.min.css';
 
 
