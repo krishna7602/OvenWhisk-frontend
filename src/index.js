@@ -17,9 +17,9 @@ import { store } from './store/store';
 import { StateProvider } from './components/StateProvider';
 import reducer, { initialState } from './components/reducer';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'animate.css/animate.min.css';
-import 'owl.carousel/dist/assets/owl.carousel.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'animate.css/animate.min.css';
+// import 'owl.carousel/dist/assets/owl.carousel.min.css';
 
 
 
