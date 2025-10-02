@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/OvenWhisk-frontend/static/css/main.d5f5c8b5.css",
+    "main.js": "/OvenWhisk-frontend/static/js/main.9c3ce6c2.js",
+    "static/js/453.8ab44547.chunk.js": "/OvenWhisk-frontend/static/js/453.8ab44547.chunk.js",
+    "static/media/fa-solid-900.ttf": "/OvenWhisk-frontend/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/OvenWhisk-frontend/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/carousel-1.jpg": "/OvenWhisk-frontend/static/media/carousel-1.d5d9e64ed725adcfbf74.jpg",
+    "static/media/bootstrap-icons.woff?": "/OvenWhisk-frontend/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/OvenWhisk-frontend/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/bootstrap-icons.woff2?": "/OvenWhisk-frontend/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/carousel-2.jpg": "/OvenWhisk-frontend/static/media/carousel-2.b42f14ee344d9ae5c877.jpg",
+    "static/media/fa-brands-400.woff2": "/OvenWhisk-frontend/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/OvenWhisk-frontend/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/product-2.jpg": "/OvenWhisk-frontend/static/media/product-2.e5ba7083a9eac7f9faf2.jpg",
+    "static/media/product-1.jpg": "/OvenWhisk-frontend/static/media/product-1.00187d50cadf65ec0635.jpg",
+    "static/media/service-1.jpg": "/OvenWhisk-frontend/static/media/service-1.f99959f1763b2c968664.jpg",
+    "static/media/product-3.jpg": "/OvenWhisk-frontend/static/media/product-3.4895c0f3e4951c65968f.jpg",
+    "static/media/service-2.jpg": "/OvenWhisk-frontend/static/media/service-2.815807e67e667cacfc26.jpg",
+    "static/media/team-1.jpg": "/OvenWhisk-frontend/static/media/team-1.c2700b69d2ca0e7e81c4.jpg",
+    "static/media/about-1.jpg": "/OvenWhisk-frontend/static/media/about-1.c71a66a22ea98521353c.jpg",
+    "static/media/team-3.jpg": "/OvenWhisk-frontend/static/media/team-3.aa1b3c5e7dfba2157e7d.jpg",
+    "static/media/fa-regular-400.woff2": "/OvenWhisk-frontend/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/team-4.jpg": "/OvenWhisk-frontend/static/media/team-4.cfcb6ce5ab8b74e670d4.jpg",
+    "static/media/about-2.jpg": "/OvenWhisk-frontend/static/media/about-2.53a55aa6179807674b68.jpg",
+    "static/media/team-2.jpg": "/OvenWhisk-frontend/static/media/team-2.84d6078e27cf1eef3dea.jpg",
+    "static/media/fa-v4compatibility.ttf": "/OvenWhisk-frontend/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/OvenWhisk-frontend/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/logo.svg": "/OvenWhisk-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OvenWhisk-frontend/index.html",
+    "main.d5f5c8b5.css.map": "/OvenWhisk-frontend/static/css/main.d5f5c8b5.css.map",
+    "main.9c3ce6c2.js.map": "/OvenWhisk-frontend/static/js/main.9c3ce6c2.js.map",
+    "453.8ab44547.chunk.js.map": "/OvenWhisk-frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f5c8b5.css",
+    "static/js/main.9c3ce6c2.js"
+  ]
+}
