@@ -1,5 +1,5 @@
 import React from 'react';
-import CurrencyFormat from 'react-currency-format';
+import CurrencyInput  from 'react-currency-format';
 import { useNavigate } from 'react-router-dom';
 import { getBasketTotal } from '../components/reducer';
 import { useStateValue } from '../components/StateProvider';
