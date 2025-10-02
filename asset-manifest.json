@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/OvenWhisk-frontend/static/css/main.6889604a.css",
+    "main.css": "/OvenWhisk-frontend/static/css/main.3d7e2a61.css",
     "main.js": "/OvenWhisk-frontend/static/js/main.9c3ce6c2.js",
     "static/js/453.8ab44547.chunk.js": "/OvenWhisk-frontend/static/js/453.8ab44547.chunk.js",
     "static/media/fa-solid-900.ttf": "/OvenWhisk-frontend/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
@@ -28,12 +28,12 @@
     "static/media/fa-v4compatibility.woff2": "/OvenWhisk-frontend/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "static/media/logo.svg": "/OvenWhisk-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/OvenWhisk-frontend/index.html",
-    "main.6889604a.css.map": "/OvenWhisk-frontend/static/css/main.6889604a.css.map",
+    "main.3d7e2a61.css.map": "/OvenWhisk-frontend/static/css/main.3d7e2a61.css.map",
     "main.9c3ce6c2.js.map": "/OvenWhisk-frontend/static/js/main.9c3ce6c2.js.map",
     "453.8ab44547.chunk.js.map": "/OvenWhisk-frontend/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6889604a.css",
+    "static/css/main.3d7e2a61.css",
     "static/js/main.9c3ce6c2.js"
   ]
 }
